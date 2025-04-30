@@ -1,6 +1,6 @@
 from pathlib import Path
-TOKEN = "7562311307:AAFD9yKPUR4K_g3XEHo37U0-W8pRXRXJFoM"
-ID = 1326314822
+TOKEN = ""
+ID = 
 import traceback
 import datetime
 import logging
